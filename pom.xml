@@ -14,8 +14,8 @@
 
         <java-version>1.6</java-version>
 
-        <bukkit-version>1.8-R0.1-SNAPSHOT</bukkit-version>
-        <spigot-version>1.8-R0.1-SNAPSHOT</spigot-version>
+        <bukkit-version>1.9.4-R0.1-SNAPSHOT</bukkit-version>
+        <spigot-version>1.9.4-R0.1-SNAPSHOT</spigot-version>
 
         <github.global.server>github</github.global.server>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
